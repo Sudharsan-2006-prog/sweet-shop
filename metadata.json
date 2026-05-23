@@ -1,0 +1,6 @@
+{
+  "name": "Premium Sweet Shop & AI Concierge",
+  "description": "An exquisite premium sweet shop e-commerce experience featuring custom luxury gifting, smart recommendation pairings, and AI-powered Conversational Shoppers and Order Support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
